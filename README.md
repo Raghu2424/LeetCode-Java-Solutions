@@ -1,34 +1,23 @@
 # 🚀 LeetCode Java Solutions
 
-Welcome to my LeetCode journey! This repository contains my daily Java solutions for LeetCode problems.
+My daily journey of solving LeetCode problems using Java.
 
-## 👨‍💻 Language
-- Java
-
-## 🎯 Goal
-- Solve at least one LeetCode problem every day.
-- Improve Data Structures and Algorithms (DSA).
-- Build consistency and strengthen problem-solving skills.
-
-## 📅 Progress
+## 📊 Progress
 
 | Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
+|---|---|---|---|
 | Day 01 | Two Sum | Easy | ✅ |
 | Day 02 | Smallest Divisible Digit Product I | Easy | ✅ |
+| Day 03 | Add Two Numbers | Medium | ✅ |
 
-## 📂 Repository Structure
+## 🔥 LeetCode Daily Challenges
 
-```
-LeetCode-Java-Solutions/
-│
-├── Day-01-Two-Sum/
-│   └── Solution.java
-│
-├── Day-02-Smallest-Divisible-Digit-Product-I/
-│   └── Solution.java
-│
-└── README.md
-```
+| Problem | LeetCode | Status |
+|---|---:|---|
+| Smallest Divisible Digit Product II | 3348 | ✅ |
 
-⭐ Thank you for visiting my repository!
+## 🎯 Goal
+
+Solve problems consistently and improve my Java + DSA skills every day.
+
+> One problem a day. One step closer to becoming a better developer. 💻🔥
