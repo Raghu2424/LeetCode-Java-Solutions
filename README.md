@@ -10,6 +10,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 02 | #3345 | Smallest Divisible Digit Product I | Easy | ✅ |
 | Day 03 | #2 | Add Two Numbers | Medium | ✅ |
 | Day 04 | #3302 | Find the Lexicographically Smallest Valid Sequence | Medium | ✅ |
+| Day 05 | #1140 | Stone Game II | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -17,10 +18,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 02 - Smallest Divisible Digit Product I](./Day-02-Smallest-Divisible-Digit-Product-I/)
 - [Day 03 - Add Two Numbers](./Day-03-Add-Two-Numbers/)
 - [Day 04 - Find the Lexicographically Smallest Valid Sequence](./Day-04-Find-Lexicographically-Smallest-Valid-Sequence/)
+- [Day 05 - Stone Game II](./Day-05-Stone-Game-II/)
 
 ## 🔥 Progress
 
-**4 Days Completed!**
+**5 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
@@ -32,4 +34,8 @@ I am solving LeetCode problems consistently to improve my Java and DSA skills.
 - Maintain a consistent coding habit
 - Build a strong GitHub DSA portfolio
 
-> 💻 One problem a day. One step closer to becoming a better developer. 🚀
+## 💻 Language
+
+**Java**
+
+> One problem a day. One step closer to becoming a better developer. 🚀
