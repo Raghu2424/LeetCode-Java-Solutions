@@ -11,6 +11,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 03 | #2 | Add Two Numbers | Medium | ✅ |
 | Day 04 | #3302 | Find the Lexicographically Smallest Valid Sequence | Medium | ✅ |
 | Day 05 | #1140 | Stone Game II | Medium | ✅ |
+| Day 06 | #1510 | Stone Game IV | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -19,10 +20,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 03 - Add Two Numbers](./Day-03-Add-Two-Numbers/)
 - [Day 04 - Find the Lexicographically Smallest Valid Sequence](./Day-04-Find-Lexicographically-Smallest-Valid-Sequence/)
 - [Day 05 - Stone Game II](./Day-05-Stone-Game-II/)
+- [Day 06 - Stone Game IV](./Day-06-Stone-Game-IV/)
 
 ## 🔥 Progress
 
-**5 Days Completed!**
+**6 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
