@@ -12,6 +12,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 04 | #3302 | Find the Lexicographically Smallest Valid Sequence | Medium | ✅ |
 | Day 05 | #1140 | Stone Game II | Medium | ✅ |
 | Day 06 | #1510 | Stone Game IV | Medium | ✅ |
+| Day 07 | #2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -21,10 +22,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 04 - Find the Lexicographically Smallest Valid Sequence](./Day-04-Find-Lexicographically-Smallest-Valid-Sequence/)
 - [Day 05 - Stone Game II](./Day-05-Stone-Game-II/)
 - [Day 06 - Stone Game IV](./Day-06-Stone-Game-IV/)
+- [Day 07 - Smallest Missing Integer](./Day-07-Smallest-Missing-Integer/)
 
 ## 🔥 Progress
 
-**6 Days Completed!**
+**7 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
