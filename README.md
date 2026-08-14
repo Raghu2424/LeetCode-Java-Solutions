@@ -15,6 +15,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 07 |    #2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy       | ✅      |
 | Day 08 |    #2958 | Length of Longest Subarray With at Most K Frequency         | Medium     | ✅      |
 | Day 09 |    #2213 | Longest Substring of One Repeating Character                | Hard       | ✅      |
+| Day 10 |    #3090 | Maximum Length Substring With Two Occurrences               | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -27,10 +28,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 * [Day 07 - Smallest Missing Integer](./Day-07-Smallest-Missing-Integer/)
 * [Day 08 - Length of Longest Subarray With at Most K Frequency](./Day-08-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
 * [Day 09 - Longest Substring of One Repeating Character](./Day-09-Longest-Substring-of-One-Repeating-Character/)
+* [Day 10 - Maximum Length Substring With Two Occurrences](./Day-10-Maximum-Length-Substring-With-Two-Occurrences/)
 
 ## 🔥 Progress
 
-**9 Days Completed!**
+**10 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
