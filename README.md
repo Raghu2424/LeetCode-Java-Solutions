@@ -16,6 +16,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 08 |    #2958 | Length of Longest Subarray With at Most K Frequency         | Medium     | ✅      |
 | Day 09 |    #2213 | Longest Substring of One Repeating Character                | Hard       | ✅      |
 | Day 10 |    #3090 | Maximum Length Substring With Two Occurrences               | Easy       | ✅      |
+| Day 11 |        — | Maximum Subsequence With Non-Zero XOR                       | —          | ✅      |
 
 ## 📁 Solutions
 
@@ -29,10 +30,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 * [Day 08 - Length of Longest Subarray With at Most K Frequency](./Day-08-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
 * [Day 09 - Longest Substring of One Repeating Character](./Day-09-Longest-Substring-of-One-Repeating-Character/)
 * [Day 10 - Maximum Length Substring With Two Occurrences](./Day-10-Maximum-Length-Substring-With-Two-Occurrences/)
+* [Day 11 - Maximum Subsequence With Non-Zero XOR](./Day-11-Maximum-Subsequence-With-Non-Zero-XOR/)
 
 ## 🔥 Progress
 
-**10 Days Completed!**
+**11 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
