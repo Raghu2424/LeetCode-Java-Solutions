@@ -19,6 +19,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 11 | — | Maximum Subsequence With Non-Zero XOR | — | ✅ |
 | Day 12 | #2029 | Stone Game IX | Medium | ✅ |
 | Day 13 | #1563 | Stone Game V | Hard | ✅ |
+| Day 14 | — | Largest Integer That Only Occurs Once | — | ✅ |
 
 ## 📁 Solutions
 
@@ -35,10 +36,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 11 - Maximum Subsequence With Non-Zero XOR](./Day-11-Maximum-Subsequence-With-Non-Zero-XOR/)
 - [Day 12 - Stone Game IX](./Day-12-Stone-Game-IX/)
 - [Day 13 - Stone Game V](./Day-13-Stone-Game-V/)
+- [Day 14 - Largest Integer That Only Occurs Once](./Day-14-Largest-Integer-That-Only-Occurs-Once/)
 
 ## 🔥 Progress
 
-**13 Days Completed!** 🎉
+**14 Days Completed!** 🎉
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
@@ -46,7 +48,8 @@ I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
 - Arrays
 - Strings
-- HashMap & HashSet
+- HashMap
+- HashSet
 - Sliding Window
 - Prefix Sum
 - Dynamic Programming
