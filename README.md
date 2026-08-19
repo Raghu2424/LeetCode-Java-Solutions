@@ -20,6 +20,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 12 | #2029 | Stone Game IX | Medium | ✅ |
 | Day 13 | #1563 | Stone Game V | Hard | ✅ |
 | Day 14 | — | Largest Integer That Only Occurs Once | — | ✅ |
+| Day 15 | #1386 | Cinema Seat Allocation | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -37,12 +38,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 12 - Stone Game IX](./Day-12-Stone-Game-IX/)
 - [Day 13 - Stone Game V](./Day-13-Stone-Game-V/)
 - [Day 14 - Largest Integer That Only Occurs Once](./Day-14-Largest-Integer-That-Only-Occurs-Once/)
-
-## 🔥 Progress
-
-**14 Days Completed!** 🎉
-
-I am solving LeetCode problems consistently to improve my Java and DSA skills.
+- [Day 15 - Cinema Seat Allocation](./Day-15-Cinema-Seat-Allocation/)
 
 ## 🧠 Concepts Practiced
 
@@ -58,6 +54,12 @@ I am solving LeetCode problems consistently to improve my Java and DSA skills.
 - Bit Manipulation
 - Segment Trees
 - Game Theory
+
+## 🔥 Progress
+
+**15 Days Completed!** 🎉
+
+I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
 ## 🎯 Goal
 
