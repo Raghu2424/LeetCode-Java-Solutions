@@ -21,6 +21,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 13 | #1563 | Stone Game V | Hard | ✅ |
 | Day 14 | — | Largest Integer That Only Occurs Once | — | ✅ |
 | Day 15 | #1386 | Cinema Seat Allocation | Medium | ✅ |
+| Day 16 | #3069 | Distribute Elements Into Two Arrays I | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -39,6 +40,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 13 - Stone Game V](./Day-13-Stone-Game-V/)
 - [Day 14 - Largest Integer That Only Occurs Once](./Day-14-Largest-Integer-That-Only-Occurs-Once/)
 - [Day 15 - Cinema Seat Allocation](./Day-15-Cinema-Seat-Allocation/)
+- [Day 16 - Distribute Elements Into Two Arrays I](./Day-16-Distribute-Elements-Into-Two-Arrays-I/)
 
 ## 🧠 Concepts Practiced
 
@@ -46,6 +48,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Strings
 - HashMap
 - HashSet
+- ArrayList
 - Sliding Window
 - Prefix Sum
 - Dynamic Programming
@@ -57,7 +60,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 
 ## 🔥 Progress
 
-**15 Days Completed!** 🎉
+**16 Days Completed!** 🎉
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
