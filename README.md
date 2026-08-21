@@ -22,6 +22,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 14 | — | Largest Integer That Only Occurs Once | — | ✅ |
 | Day 15 | #1386 | Cinema Seat Allocation | Medium | ✅ |
 | Day 16 | #3069 | Distribute Elements Into Two Arrays I | Easy | ✅ |
+| Day 17 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
 
 ## 📁 Solutions
 
@@ -41,6 +42,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 14 - Largest Integer That Only Occurs Once](./Day-14-Largest-Integer-That-Only-Occurs-Once/)
 - [Day 15 - Cinema Seat Allocation](./Day-15-Cinema-Seat-Allocation/)
 - [Day 16 - Distribute Elements Into Two Arrays I](./Day-16-Distribute-Elements-Into-Two-Arrays-I/)
+- [Day 17 - Kth Smallest Amount With Single Denomination Combination](./Day-17-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
 
 ## 🧠 Concepts Practiced
 
@@ -57,10 +59,13 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Bit Manipulation
 - Segment Trees
 - Game Theory
+- GCD & LCM
+- Inclusion-Exclusion
+- Binary Search
 
 ## 🔥 Progress
 
-**16 Days Completed!** 🎉
+**17 Days Completed!** 🎉
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
