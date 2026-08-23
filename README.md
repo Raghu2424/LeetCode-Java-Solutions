@@ -24,6 +24,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 16 | #3069 | Distribute Elements Into Two Arrays I | Easy | ✅ |
 | Day 17 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
 | Day 18 | #3622 | Check Divisibility by Digit Sum and Product | Easy | ✅ |
+| Day 19 | #1927 | Sum Game | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -45,6 +46,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 16 - Distribute Elements Into Two Arrays I](./Day-16-Distribute-Elements-Into-Two-Arrays-I/)
 - [Day 17 - Kth Smallest Amount With Single Denomination Combination](./Day-17-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
 - [Day 18 - Check Divisibility by Digit Sum and Product](./Day-18-Check-Divisibility-by-Digit-Sum-and-Product/)
+- [Day 19 - Sum Game](./Day-19-Sum-Game/)
 
 ## 🧠 Concepts Practiced
 
@@ -69,7 +71,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 
 ## 🔥 Progress
 
-**18 Days Completed!** 🎉
+**19 Days Completed!** 🎉
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
