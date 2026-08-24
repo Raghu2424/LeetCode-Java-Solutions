@@ -25,6 +25,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 17 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
 | Day 18 | #3622 | Check Divisibility by Digit Sum and Product | Easy | ✅ |
 | Day 19 | #1927 | Sum Game | Medium | ✅ |
+| Day 20 | #1872 | Stone Game VIII | Hard | ✅ |
 
 ## 📁 Solutions
 
@@ -47,6 +48,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 17 - Kth Smallest Amount With Single Denomination Combination](./Day-17-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
 - [Day 18 - Check Divisibility by Digit Sum and Product](./Day-18-Check-Divisibility-by-Digit-Sum-and-Product/)
 - [Day 19 - Sum Game](./Day-19-Sum-Game/)
+- [Day 20 - Stone Game VIII](./Day-20-Stone-Game-VIII/)
 
 ## 🧠 Concepts Practiced
 
@@ -71,7 +73,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 
 ## 🔥 Progress
 
-**19 Days Completed!** 🎉
+**20 Days Completed!** 🎉
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
