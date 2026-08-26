@@ -27,6 +27,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 19 | #1927 | Sum Game | Medium | ✅ |
 | Day 20 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 21 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
+| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -51,6 +52,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 19 - Sum Game](./Day-19-Sum-Game/)
 - [Day 20 - Stone Game VIII](./Day-20-Stone-Game-VIII/)
 - [Day 21 - Smallest Missing Multiple of K](./Day-21-Smallest-Missing-Multiple-of-K/)
+- [Day 22 - Shortest and Lexicographically Smallest Beautiful String](./Day-22-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
 
 ## 🧠 Concepts Practiced
 
@@ -73,10 +75,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Number Theory
 - Digit Manipulation
 - Hash Table
+- String Comparison
 
 ## 🔥 Progress
 
-**21 Days Completed!** 🎉
+**22 Days Completed!** 🎉
 
 I am solving LeetCode problems consistently to improve my Java and DSA skills.
 
