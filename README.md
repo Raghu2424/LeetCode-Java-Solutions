@@ -28,6 +28,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 20 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 21 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
 | Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
+| Day 23 | — | Lexicographically Greater Permutation | — | ✅ |
 
 ## 📁 Solutions
 
@@ -53,6 +54,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 20 - Stone Game VIII](./Day-20-Stone-Game-VIII/)
 - [Day 21 - Smallest Missing Multiple of K](./Day-21-Smallest-Missing-Multiple-of-K/)
 - [Day 22 - Shortest and Lexicographically Smallest Beautiful String](./Day-22-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
+- [Day 23 - Lexicographically Greater Permutation](./Day-23-Lexicographically-Greater-Permutation/)
 
 ## 🧠 Concepts Practiced
 
@@ -66,6 +68,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Dynamic Programming
 - Recursion & Memoization
 - Greedy Algorithms
+- Backtracking
 - Bit Manipulation
 - Segment Trees
 - Game Theory
@@ -74,14 +77,14 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Binary Search
 - Number Theory
 - Digit Manipulation
-- Hash Table
-- String Comparison
+- String Manipulation
+- Lexicographical Ordering
 
 ## 🔥 Progress
 
-**22 Days Completed!** 🎉
+**23 Days Completed!** 🎉
 
-I am solving LeetCode problems consistently to improve my Java and DSA skills.
+I am solving coding problems consistently to improve my Java and DSA skills.
 
 ## 🎯 Goal
 
