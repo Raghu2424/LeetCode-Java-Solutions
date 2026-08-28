@@ -29,6 +29,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 21 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
 | Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
 | Day 23 | — | Lexicographically Greater Permutation | — | ✅ |
+| Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 
 ## 📁 Solutions
 
@@ -55,6 +56,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 21 - Smallest Missing Multiple of K](./Day-21-Smallest-Missing-Multiple-of-K/)
 - [Day 22 - Shortest and Lexicographically Smallest Beautiful String](./Day-22-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
 - [Day 23 - Lexicographically Greater Permutation](./Day-23-Lexicographically-Greater-Permutation/)
+- [Day 24 - Lexicographically Smallest Palindromic Permutation Greater Than Target](./Day-24-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target/)
 
 ## 🧠 Concepts Practiced
 
@@ -79,10 +81,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Digit Manipulation
 - String Manipulation
 - Lexicographical Ordering
+- Palindrome Construction
 
 ## 🔥 Progress
 
-**23 Days Completed!** 🎉
+**24 Days Completed!** 🎉
 
 I am solving coding problems consistently to improve my Java and DSA skills.
 
