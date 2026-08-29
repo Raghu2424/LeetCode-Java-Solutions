@@ -30,6 +30,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
 | Day 23 | — | Lexicographically Greater Permutation | — | ✅ |
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
+| Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -57,6 +58,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 22 - Shortest and Lexicographically Smallest Beautiful String](./Day-22-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
 - [Day 23 - Lexicographically Greater Permutation](./Day-23-Lexicographically-Greater-Permutation/)
 - [Day 24 - Lexicographically Smallest Palindromic Permutation Greater Than Target](./Day-24-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target/)
+- [Day 25 - Make Lexicographically Smallest Array](./Day-25-Make-Lexicographically-Smallest-Array/)
 
 ## 🧠 Concepts Practiced
 
@@ -82,10 +84,12 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - String Manipulation
 - Lexicographical Ordering
 - Palindrome Construction
+- Sorting
+- Connected Components
 
 ## 🔥 Progress
 
-**24 Days Completed!** 🎉
+**25 Days Completed!** 🎉
 
 I am solving coding problems consistently to improve my Java and DSA skills.
 
