@@ -31,6 +31,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 23 | — | Lexicographically Greater Permutation | — | ✅ |
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 | Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
+| Day 26 | #2091 | Removing Minimum and Maximum From Array | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -59,6 +60,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 23 - Lexicographically Greater Permutation](./Day-23-Lexicographically-Greater-Permutation/)
 - [Day 24 - Lexicographically Smallest Palindromic Permutation Greater Than Target](./Day-24-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target/)
 - [Day 25 - Make Lexicographically Smallest Array](./Day-25-Make-Lexicographically-Smallest-Array/)
+- [Day 26 - Removing Minimum and Maximum](./Day-26-Removing-Minimum-and-Maximum/)
 
 ## 🧠 Concepts Practiced
 
@@ -86,10 +88,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Palindrome Construction
 - Sorting
 - Connected Components
+- Array Indexing
 
 ## 🔥 Progress
 
-**25 Days Completed!** 🎉
+**26 Days Completed!** 🎉
 
 I am solving coding problems consistently to improve my Java and DSA skills.
 
