@@ -32,6 +32,8 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 | Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
 | Day 26 | #2091 | Removing Minimum and Maximum From Array | Medium | ✅ |
+| Day 27 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
+| Day 28 | #3876 | Construct Uniform Parity Array II | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -61,6 +63,8 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 24 - Lexicographically Smallest Palindromic Permutation Greater Than Target](./Day-24-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target/)
 - [Day 25 - Make Lexicographically Smallest Array](./Day-25-Make-Lexicographically-Smallest-Array/)
 - [Day 26 - Removing Minimum and Maximum](./Day-26-Removing-Minimum-and-Maximum/)
+- [Day 27 - Find the Minimum and Maximum Number of Nodes Between Critical Points](./Day-27-Find-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/)
+- [Day 28 - Construct Uniform Parity Array II](./Day-28-Construct-Uniform-Parity-Array-II/)
 
 ## 🧠 Concepts Practiced
 
@@ -69,6 +73,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - HashMap
 - HashSet
 - ArrayList
+- Linked Lists
 - Sliding Window
 - Prefix Sum
 - Dynamic Programming
@@ -92,7 +97,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 
 ## 🔥 Progress
 
-**26 Days Completed!** 🎉
+**28 Days Completed!** 🎉
 
 I am solving coding problems consistently to improve my Java and DSA skills.
 
