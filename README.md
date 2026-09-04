@@ -34,6 +34,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 26 | #2091 | Removing Minimum and Maximum From Array | Medium | ✅ |
 | Day 27 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
 | Day 28 | #3876 | Construct Uniform Parity Array II | Medium | ✅ |
+| Day 29 | — | First Stable Index | — | ✅ |
 
 ## 📁 Solutions
 
@@ -65,6 +66,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 26 - Removing Minimum and Maximum](./Day-26-Removing-Minimum-and-Maximum/)
 - [Day 27 - Find the Minimum and Maximum Number of Nodes Between Critical Points](./Day-27-Find-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/)
 - [Day 28 - Construct Uniform Parity Array II](./Day-28-Construct-Uniform-Parity-Array-II/)
+- [Day 29 - First Stable Index](./Day-29-First-Stable-Index/)
 
 ## 🧠 Concepts Practiced
 
@@ -94,10 +96,11 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Sorting
 - Connected Components
 - Array Indexing
+- Prefix/Suffix Techniques
 
 ## 🔥 Progress
 
-**28 Days Completed!** 🎉
+**29 Days Completed!** 🎉
 
 I am solving coding problems consistently to improve my Java and DSA skills.
 
