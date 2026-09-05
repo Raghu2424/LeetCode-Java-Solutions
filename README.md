@@ -32,41 +32,18 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 | Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
 | Day 26 | #2091 | Removing Minimum and Maximum From Array | Medium | ✅ |
-| Day 27 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
-| Day 28 | #3876 | Construct Uniform Parity Array II | Medium | ✅ |
-| Day 29 | — | First Stable Index | — | ✅ |
+| Day 27 | #3876 | Construct Uniform Parity Array II | Medium | ✅ |
+| Day 28 | #2667 | Create Hello World Function | Easy | ✅ |
+| Day 29 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
+| Day 30 | — | First Stable Index | — | ✅ |
 
 ## 📁 Solutions
 
-- [Day 01 - Two Sum](./Day-01-Two-Sum/)
-- [Day 02 - Smallest Divisible Digit Product I](./Day-02-Smallest-Divisible-Digit-Product-I/)
-- [Day 03 - Add Two Numbers](./Day-03-Add-Two-Numbers/)
-- [Day 04 - Find the Lexicographically Smallest Valid Sequence](./Day-04-Find-the-Lexicographically-Smallest-Valid-Sequence/)
-- [Day 05 - Stone Game II](./Day-05-Stone-Game-II/)
-- [Day 06 - Stone Game IV](./Day-06-Stone-Game-IV/)
-- [Day 07 - Smallest Missing Integer](./Day-07-Smallest-Missing-Integer/)
-- [Day 08 - Length of Longest Subarray With at Most K Frequency](./Day-08-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
-- [Day 09 - Longest Substring of One Repeating Character](./Day-09-Longest-Substring-of-One-Repeating-Character/)
-- [Day 10 - Maximum Length Substring With Two Occurrences](./Day-10-Maximum-Length-Substring-With-Two-Occurrences/)
-- [Day 11 - Maximum Subsequence With Non-Zero XOR](./Day-11-Maximum-Subsequence-With-Non-Zero-XOR/)
-- [Day 12 - Stone Game IX](./Day-12-Stone-Game-IX/)
-- [Day 13 - Stone Game V](./Day-13-Stone-Game-V/)
-- [Day 14 - Largest Integer That Only Occurs Once](./Day-14-Largest-Integer-That-Only-Occurs-Once/)
-- [Day 15 - Cinema Seat Allocation](./Day-15-Cinema-Seat-Allocation/)
-- [Day 16 - Distribute Elements Into Two Arrays I](./Day-16-Distribute-Elements-Into-Two-Arrays-I/)
-- [Day 17 - Kth Smallest Amount With Single Denomination Combination](./Day-17-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
-- [Day 18 - Check Divisibility by Digit Sum and Product](./Day-18-Check-Divisibility-by-Digit-Sum-and-Product/)
-- [Day 19 - Sum Game](./Day-19-Sum-Game/)
-- [Day 20 - Stone Game VIII](./Day-20-Stone-Game-VIII/)
-- [Day 21 - Smallest Missing Multiple of K](./Day-21-Smallest-Missing-Multiple-of-K/)
-- [Day 22 - Shortest and Lexicographically Smallest Beautiful String](./Day-22-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
-- [Day 23 - Lexicographically Greater Permutation](./Day-23-Lexicographically-Greater-Permutation/)
-- [Day 24 - Lexicographically Smallest Palindromic Permutation Greater Than Target](./Day-24-Lexicographically-Smallest-Palindromic-Permutation-Greater-Than-Target/)
-- [Day 25 - Make Lexicographically Smallest Array](./Day-25-Make-Lexicographically-Smallest-Array/)
 - [Day 26 - Removing Minimum and Maximum](./Day-26-Removing-Minimum-and-Maximum/)
-- [Day 27 - Find the Minimum and Maximum Number of Nodes Between Critical Points](./Day-27-Find-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/)
-- [Day 28 - Construct Uniform Parity Array II](./Day-28-Construct-Uniform-Parity-Array-II/)
-- [Day 29 - First Stable Index](./Day-29-First-Stable-Index/)
+- [Day 27 - Construct Uniform Parity Array II](./Day-27-Construct-Uniform-Parity-Array-II/)
+- [Day 28 - Create Hello World Function](./Day-28-Create-Hello-World-Function/)
+- [Day 29 - Find the Minimum and Maximum Number of Nodes Between Critical Points](./Day-29-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/)
+- [Day 30 - First Stable Index](./Day-30-First-Stable-Index/)
 
 ## 🧠 Concepts Practiced
 
@@ -74,41 +51,32 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Strings
 - HashMap
 - HashSet
-- ArrayList
 - Linked Lists
 - Sliding Window
 - Prefix Sum
 - Dynamic Programming
-- Recursion & Memoization
 - Greedy Algorithms
 - Backtracking
 - Bit Manipulation
-- Segment Trees
-- Game Theory
-- GCD & LCM
-- Inclusion-Exclusion
 - Binary Search
-- Number Theory
-- Digit Manipulation
-- String Manipulation
-- Lexicographical Ordering
-- Palindrome Construction
 - Sorting
-- Connected Components
-- Array Indexing
+- Recursion & Memoization
+- GCD & LCM
+- Game Theory
 - Prefix/Suffix Techniques
+- Lexicographical Ordering
 
 ## 🔥 Progress
 
-**29 Days Completed!** 🎉
+**30 Days Completed!** 🎉
 
-I am solving coding problems consistently to improve my Java and DSA skills.
+Consistently solving LeetCode problems to improve my Java and Data Structures & Algorithms skills.
 
 ## 🎯 Goal
 
 - Improve problem-solving skills
 - Strengthen Java fundamentals
-- Learn Data Structures & Algorithms
+- Master Data Structures & Algorithms
 - Maintain a consistent coding habit
 - Build a strong GitHub DSA portfolio
 
