@@ -36,6 +36,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 28 | #2667 | Create Hello World Function | Easy | ✅ |
 | Day 29 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
 | Day 30 | — | First Stable Index | — | ✅ |
+| Day 31 | #115 | Distinct Subsequences | Hard | ✅ |
 
 ## 📁 Solutions
 
@@ -69,6 +70,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 28 - Create Hello World Function](./Day-28-Create-Hello-World-Function/)
 - [Day 29 - Find the Minimum and Maximum Number of Nodes Between Critical Points](./Day-29-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/)
 - [Day 30 - First Stable Index](./Day-30-First-Stable-Index/)
+- [Day 31 - Distinct Subsequences](./Day-31-Distinct-Subsequences/)
 
 ## 🧠 Concepts Practiced
 
@@ -79,6 +81,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Linked Lists
 - Sliding Window
 - Prefix Sum
+- Suffix Minimum
 - Dynamic Programming
 - Greedy Algorithms
 - Backtracking
@@ -90,10 +93,12 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - Game Theory
 - Prefix/Suffix Techniques
 - Lexicographical Ordering
+- String Matching
+- Subsequence Dynamic Programming
 
 ## 🔥 Progress
 
-**30 Days Completed!** 🎉
+**31 Days Completed!** 🎉
 
 Consistently solving LeetCode problems to improve my Java and Data Structures & Algorithms skills.
 
