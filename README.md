@@ -37,6 +37,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 29 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
 | Day 30 | — | First Stable Index | — | ✅ |
 | Day 31 | #115 | Distinct Subsequences | Hard | ✅ |
+| Day 32 | #940 | Distinct Subsequences II | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -71,6 +72,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 29 - Find the Minimum and Maximum Number of Nodes Between Critical Points](./Day-29-Find-the-Minimum-and-Maximum-Number-of-Nodes-Between-Critical-Points/)
 - [Day 30 - First Stable Index](./Day-30-First-Stable-Index/)
 - [Day 31 - Distinct Subsequences](./Day-31-Distinct-Subsequences/)
+- [Day 32 - Distinct Subsequences II](./Day-32-Distinct-Subsequences-II/)
 
 ## 🧠 Concepts Practiced
 
@@ -98,7 +100,7 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 
 ## 🔥 Progress
 
-**31 Days Completed!** 🎉
+**32 Days Completed!** 🎉
 
 Consistently solving LeetCode problems to improve my Java and Data Structures & Algorithms skills.
 
