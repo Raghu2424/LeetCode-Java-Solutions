@@ -1,11 +1,11 @@
 # 🚀 LeetCode Java Solutions
 
-My daily journey of solving LeetCode problems using Java and improving my Data Structures & Algorithms skills.
+My daily journey of solving LeetCode problems using **Java** and improving my **Data Structures & Algorithms** skills.
 
 ## 📊 DSA Progress
 
 | Day | LeetCode | Problem | Difficulty | Status |
-|---|---:|---|---|---|
+|---|---|---|---|---|
 | Day 01 | #1 | Two Sum | Easy | ✅ |
 | Day 02 | #3345 | Smallest Divisible Digit Product I | Easy | ✅ |
 | Day 03 | #2 | Add Two Numbers | Medium | ✅ |
@@ -16,10 +16,10 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 08 | #2958 | Length of Longest Subarray With at Most K Frequency | Medium | ✅ |
 | Day 09 | #2213 | Longest Substring of One Repeating Character | Hard | ✅ |
 | Day 10 | #3090 | Maximum Length Substring With Two Occurrences | Easy | ✅ |
-| Day 11 | — | Maximum Subsequence With Non-Zero XOR | — | ✅ |
+| Day 11 | — | Maximum Subsequence With Non-Zero XOR | Medium | ✅ |
 | Day 12 | #2029 | Stone Game IX | Medium | ✅ |
 | Day 13 | #1563 | Stone Game V | Hard | ✅ |
-| Day 14 | — | Largest Integer That Only Occurs Once | — | ✅ |
+| Day 14 | — | Largest Integer That Only Occurs Once | Easy | ✅ |
 | Day 15 | #1386 | Cinema Seat Allocation | Medium | ✅ |
 | Day 16 | #3069 | Distribute Elements Into Two Arrays I | Easy | ✅ |
 | Day 17 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
@@ -27,17 +27,20 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 | Day 19 | #1927 | Sum Game | Medium | ✅ |
 | Day 20 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 21 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
-| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
-| Day 23 | — | Lexicographically Greater Permutation | — | ✅ |
+| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
+| Day 23 | — | Lexicographically Greater Permutation | Medium | ✅ |
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 | Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
 | Day 26 | #2091 | Removing Minimum and Maximum From Array | Medium | ✅ |
-| Day 27 | #3876 | Construct Uniform Parity Array II | Medium | ✅ |
+| Day 27 | #3876 | Construct Uniform Parity Array II | Easy | ✅ |
 | Day 28 | #2667 | Create Hello World Function | Easy | ✅ |
 | Day 29 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
-| Day 30 | — | First Stable Index | — | ✅ |
+| Day 30 | — | First Stable Index | Easy | ✅ |
 | Day 31 | #115 | Distinct Subsequences | Hard | ✅ |
 | Day 32 | #940 | Distinct Subsequences II | Medium | ✅ |
+| Day 33 | — | Count Commas in Range | Easy | ✅ |
+
+---
 
 ## 📁 Solutions
 
@@ -73,47 +76,46 @@ My daily journey of solving LeetCode problems using Java and improving my Data S
 - [Day 30 - First Stable Index](./Day-30-First-Stable-Index/)
 - [Day 31 - Distinct Subsequences](./Day-31-Distinct-Subsequences/)
 - [Day 32 - Distinct Subsequences II](./Day-32-Distinct-Subsequences-II/)
+- [Day 33 - Count Commas in Range](./Day-33-Count-Commas-in-Range/)
+
+---
 
 ## 🧠 Concepts Practiced
 
-- Arrays
-- Strings
-- HashMap
-- HashSet
-- Linked Lists
-- Sliding Window
-- Prefix Sum
-- Suffix Minimum
-- Dynamic Programming
+- Arrays & Hashing
+- Strings & Sliding Window
+- Two Pointers
 - Greedy Algorithms
-- Backtracking
-- Bit Manipulation
+- Dynamic Programming
+- Recursion & Backtracking
+- Game Theory
+- Prefix Sums
 - Binary Search
 - Sorting
-- Recursion & Memoization
-- GCD & LCM
-- Game Theory
-- Prefix/Suffix Techniques
-- Lexicographical Ordering
-- String Matching
-- Subsequence Dynamic Programming
+- Linked Lists
+- Combinatorics
+- Mathematical Algorithms
+
+---
 
 ## 🔥 Progress
 
-**32 Days Completed!** 🎉
+**33 Days of Consistent DSA Practice! 🚀**
 
-Consistently solving LeetCode problems to improve my Java and Data Structures & Algorithms skills.
+Every problem is helping me strengthen my problem-solving skills and build a stronger foundation in Data Structures & Algorithms.
+
+---
 
 ## 🎯 Goal
 
-- Improve problem-solving skills
-- Strengthen Java fundamentals
-- Master Data Structures & Algorithms
-- Maintain a consistent coding habit
-- Build a strong GitHub DSA portfolio
+> Solve LeetCode problems consistently, improve my DSA skills, and become a better software developer.
+
+---
 
 ## 💻 Language
 
-**Java**
+**Java ☕**
+
+---
 
 > One problem a day. One step closer to becoming a better developer. 🚀
