@@ -39,6 +39,7 @@ My daily journey of solving LeetCode problems using **Java** and improving my **
 | Day 31 | #115 | Distinct Subsequences | Hard | ✅ |
 | Day 32 | #940 | Distinct Subsequences II | Medium | ✅ |
 | Day 33 | — | Count Commas in Range | Easy | ✅ |
+| Day 34 | #3871 | Count Commas in Range II | Medium | ✅ |
 
 ---
 
@@ -77,6 +78,7 @@ My daily journey of solving LeetCode problems using **Java** and improving my **
 - [Day 31 - Distinct Subsequences](./Day-31-Distinct-Subsequences/)
 - [Day 32 - Distinct Subsequences II](./Day-32-Distinct-Subsequences-II/)
 - [Day 33 - Count Commas in Range](./Day-33-Count-Commas-in-Range/)
+- [Day 34 - Count Commas in Range II](./Day-34-Count-Commas-in-Range-II/)
 
 ---
 
@@ -100,7 +102,7 @@ My daily journey of solving LeetCode problems using **Java** and improving my **
 
 ## 🔥 Progress
 
-**33 Days of Consistent DSA Practice! 🚀**
+**34 Days of Consistent DSA Practice! 🚀**
 
 Every problem is helping me strengthen my problem-solving skills and build a stronger foundation in Data Structures & Algorithms.
 
