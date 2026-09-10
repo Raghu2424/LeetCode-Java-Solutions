@@ -1,6 +1,6 @@
 # 🚀 LeetCode Java Solutions
 
-My daily journey of solving LeetCode problems using **Java** and improving my **Data Structures & Algorithms** skills.
+A daily journey of solving LeetCode problems in Java to improve Data Structures, Algorithms, problem-solving, and coding skills.
 
 ## 📊 DSA Progress
 
@@ -9,9 +9,9 @@ My daily journey of solving LeetCode problems using **Java** and improving my **
 | Day 01 | #1 | Two Sum | Easy | ✅ |
 | Day 02 | #3345 | Smallest Divisible Digit Product I | Easy | ✅ |
 | Day 03 | #2 | Add Two Numbers | Medium | ✅ |
-| Day 04 | #3302 | Find the Lexicographically Smallest Valid Sequence | Medium | ✅ |
+| Day 04 | #3302 | Find the Lexicographically Smallest Valid Sequence | Hard | ✅ |
 | Day 05 | #1140 | Stone Game II | Medium | ✅ |
-| Day 06 | #1510 | Stone Game IV | Medium | ✅ |
+| Day 06 | #1510 | Stone Game IV | Hard | ✅ |
 | Day 07 | #2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | ✅ |
 | Day 08 | #2958 | Length of Longest Subarray With at Most K Frequency | Medium | ✅ |
 | Day 09 | #2213 | Longest Substring of One Repeating Character | Hard | ✅ |
@@ -27,21 +27,20 @@ My daily journey of solving LeetCode problems using **Java** and improving my **
 | Day 19 | #1927 | Sum Game | Medium | ✅ |
 | Day 20 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 21 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
-| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
+| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
 | Day 23 | — | Lexicographically Greater Permutation | Medium | ✅ |
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 | Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
 | Day 26 | #2091 | Removing Minimum and Maximum From Array | Medium | ✅ |
-| Day 27 | #3876 | Construct Uniform Parity Array II | Easy | ✅ |
+| Day 27 | #3876 | Construct Uniform Parity Array II | Medium | ✅ |
 | Day 28 | #2667 | Create Hello World Function | Easy | ✅ |
 | Day 29 | #2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | ✅ |
 | Day 30 | — | First Stable Index | Easy | ✅ |
 | Day 31 | #115 | Distinct Subsequences | Hard | ✅ |
-| Day 32 | #940 | Distinct Subsequences II | Medium | ✅ |
-| Day 33 | — | Count Commas in Range | Easy | ✅ |
+| Day 32 | #940 | Distinct Subsequences II | Hard | ✅ |
+| Day 33 | #3870 | Count Commas in Range | Easy | ✅ |
 | Day 34 | #3871 | Count Commas in Range II | Medium | ✅ |
-
----
+| Day 35 | #2265 | Count Nodes Equal to Average of Subtree | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -79,45 +78,36 @@ My daily journey of solving LeetCode problems using **Java** and improving my **
 - [Day 32 - Distinct Subsequences II](./Day-32-Distinct-Subsequences-II/)
 - [Day 33 - Count Commas in Range](./Day-33-Count-Commas-in-Range/)
 - [Day 34 - Count Commas in Range II](./Day-34-Count-Commas-in-Range-II/)
-
----
+- [Day 35 - Count Nodes Equal to Average of Subtree](./Day-35-Count-Nodes-Equal-to-Average-of-Subtree/)
 
 ## 🧠 Concepts Practiced
 
-- Arrays & Hashing
-- Strings & Sliding Window
-- Two Pointers
-- Greedy Algorithms
+- Arrays
+- Strings
+- Hashing
+- Sliding Window
 - Dynamic Programming
-- Recursion & Backtracking
+- Recursion
+- Trees
+- Binary Trees
+- Greedy Algorithms
+- Prefix Sum
+- Mathematics
 - Game Theory
-- Prefix Sums
-- Binary Search
-- Sorting
+- Backtracking
 - Linked Lists
-- Combinatorics
-- Mathematical Algorithms
-
----
+- Bit Manipulation
 
 ## 🔥 Progress
 
-**34 Days of Consistent DSA Practice! 🚀**
-
-Every problem is helping me strengthen my problem-solving skills and build a stronger foundation in Data Structures & Algorithms.
-
----
+Solving one LeetCode problem every day and continuously improving problem-solving skills.
 
 ## 🎯 Goal
 
-> Solve LeetCode problems consistently, improve my DSA skills, and become a better software developer.
-
----
+Build strong DSA fundamentals and prepare for technical interviews and software development opportunities.
 
 ## 💻 Language
 
 **Java ☕**
-
----
 
 > One problem a day. One step closer to becoming a better developer. 🚀
