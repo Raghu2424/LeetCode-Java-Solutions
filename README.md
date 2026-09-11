@@ -41,6 +41,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 | Day 33 | #3870 | Count Commas in Range | Easy | ✅ |
 | Day 34 | #3871 | Count Commas in Range II | Medium | ✅ |
 | Day 35 | #2265 | Count Nodes Equal to Average of Subtree | Medium | ✅ |
+| Day 36 | #3872 | Total Numbers | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -79,6 +80,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 - [Day 33 - Count Commas in Range](./Day-33-Count-Commas-in-Range/)
 - [Day 34 - Count Commas in Range II](./Day-34-Count-Commas-in-Range-II/)
 - [Day 35 - Count Nodes Equal to Average of Subtree](./Day-35-Count-Nodes-Equal-to-Average-of-Subtree/)
+- [Day 36 - Total Numbers](./Day-36-Total-Numbers/)
 
 ## 🧠 Concepts Practiced
 
