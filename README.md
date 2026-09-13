@@ -43,6 +43,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 | Day 35 | #2265 | Count Nodes Equal to Average of Subtree | Medium | ✅ |
 | Day 36 | #3872 | Total Numbers | Medium | ✅ |
 | Day 37 | — | Maximum Weight | Hard | ✅ |
+| Day 38 | #835 | Image Overlap | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -83,6 +84,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 - [Day 35 - Count Nodes Equal to Average of Subtree](./Day-35-Count-Nodes-Equal-to-Average-of-Subtree/)
 - [Day 36 - Total Numbers](./Day-36-Total-Numbers/)
 - [Day 37 - Maximum Weight](./Day-37-Maximum-Weight/)
+- [Day 38 - Image Overlap](./Day-38-Image-Overlap/)
 
 ## 🧠 Concepts Practiced
 
@@ -102,6 +104,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 - Linked Lists
 - Bit Manipulation
 - Interval Scheduling
+- Coordinate / Vector Mapping
 
 ## 🔥 Progress
 
