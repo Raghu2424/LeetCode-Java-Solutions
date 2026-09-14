@@ -44,6 +44,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 | Day 36 | #3872 | Total Numbers | Medium | ✅ |
 | Day 37 | — | Maximum Weight | Hard | ✅ |
 | Day 38 | #835 | Image Overlap | Medium | ✅ |
+| Day 39 | #836 | Rectangle Overlap | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -85,6 +86,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 - [Day 36 - Total Numbers](./Day-36-Total-Numbers/)
 - [Day 37 - Maximum Weight](./Day-37-Maximum-Weight/)
 - [Day 38 - Image Overlap](./Day-38-Image-Overlap/)
+- [Day 39 - Rectangle Overlap](./Day-39-Rectangle-Overlap/)
 
 ## 🧠 Concepts Practiced
 
@@ -105,6 +107,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 - Bit Manipulation
 - Interval Scheduling
 - Coordinate / Vector Mapping
+- Geometry
 
 ## 🔥 Progress
 
