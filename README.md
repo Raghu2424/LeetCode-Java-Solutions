@@ -1,6 +1,9 @@
 # 🚀 LeetCode Java Solutions
 
-A daily journey of solving LeetCode problems in Java to improve Data Structures, Algorithms, problem-solving, and coding skills.
+Welcome to my **LeetCode Java Solutions** repository!  
+This repository contains my daily journey of solving LeetCode problems using **Java** and improving my **Data Structures & Algorithms (DSA)** skills.
+
+---
 
 ## 📊 DSA Progress
 
@@ -27,7 +30,7 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 | Day 19 | #1927 | Sum Game | Medium | ✅ |
 | Day 20 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 21 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
-| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Easy | ✅ |
+| Day 22 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
 | Day 23 | — | Lexicographically Greater Permutation | Medium | ✅ |
 | Day 24 | #3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | ✅ |
 | Day 25 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
@@ -45,6 +48,9 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 | Day 37 | — | Maximum Weight | Hard | ✅ |
 | Day 38 | #835 | Image Overlap | Medium | ✅ |
 | Day 39 | #836 | Rectangle Overlap | Easy | ✅ |
+| Day 40 | #2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | ✅ |
+
+---
 
 ## 📁 Solutions
 
@@ -87,38 +93,54 @@ A daily journey of solving LeetCode problems in Java to improve Data Structures,
 - [Day 37 - Maximum Weight](./Day-37-Maximum-Weight/)
 - [Day 38 - Image Overlap](./Day-38-Image-Overlap/)
 - [Day 39 - Rectangle Overlap](./Day-39-Rectangle-Overlap/)
+- [Day 40 - Maximum Number of Non-overlapping Palindrome Substrings](./Day-40-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/)
+
+---
 
 ## 🧠 Concepts Practiced
 
 - Arrays
 - Strings
-- Hashing
+- HashMap & HashSet
 - Sliding Window
-- Dynamic Programming
+- Two Pointers
 - Recursion
-- Trees
-- Binary Trees
-- Greedy Algorithms
-- Prefix Sum
-- Mathematics
-- Game Theory
-- Backtracking
 - Linked Lists
-- Bit Manipulation
+- Binary Search
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Trees & DFS
 - Interval Scheduling
-- Coordinate / Vector Mapping
-- Geometry
+- Palindrome Algorithms
+- Bit Manipulation
+- Mathematical Algorithms
+
+---
 
 ## 🔥 Progress
 
-Solving one LeetCode problem every day and continuously improving problem-solving skills.
+**40 Days Completed! 🎯**
+
+> Consistency beats intensity.  
+> Solving one problem every day and continuously improving my problem-solving skills.
+
+---
 
 ## 🎯 Goal
 
-Build strong DSA fundamentals and prepare for technical interviews and software development opportunities.
+- Strengthen DSA fundamentals
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Build consistency through daily practice
+- Become a better Full Stack Developer
+
+---
 
 ## 💻 Language
 
 **Java ☕**
+
+---
 
 > One problem a day. One step closer to becoming a better developer. 🚀
