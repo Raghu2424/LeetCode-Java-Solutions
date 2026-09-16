@@ -49,6 +49,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 38 | #835 | Image Overlap | Medium | ✅ |
 | Day 39 | #836 | Rectangle Overlap | Easy | ✅ |
 | Day 40 | #2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | ✅ |
+| Day 41 | #1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | ✅ |
 
 ---
 
@@ -94,6 +95,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - [Day 38 - Image Overlap](./Day-38-Image-Overlap/)
 - [Day 39 - Rectangle Overlap](./Day-39-Rectangle-Overlap/)
 - [Day 40 - Maximum Number of Non-overlapping Palindrome Substrings](./Day-40-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/)
+- [Day 41 - Number of Sets of K Non-Overlapping Line Segments](./Day-41-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/)
 
 ---
 
@@ -115,12 +117,14 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - Palindrome Algorithms
 - Bit Manipulation
 - Mathematical Algorithms
+- Combinatorics
+- Modular Arithmetic
 
 ---
 
 ## 🔥 Progress
 
-**40 Days Completed! 🎯**
+**41 Days Completed! 🎯**
 
 > Consistency beats intensity.  
 > Solving one problem every day and continuously improving my problem-solving skills.
