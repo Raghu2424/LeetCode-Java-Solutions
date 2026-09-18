@@ -51,6 +51,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 40 | #2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | ✅ |
 | Day 41 | #1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | ✅ |
 | Day 42 | #1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | ✅ |
+| Day 43 | #1520 | Maximum Number of Non-Overlapping Substrings | Hard | ✅ |
 
 ---
 
@@ -98,6 +99,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - [Day 40 - Maximum Number of Non-overlapping Palindrome Substrings](./Day-40-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/)
 - [Day 41 - Number of Sets of K Non-Overlapping Line Segments](./Day-41-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/)
 - [Day 42 - Find Two Non-overlapping Sub-arrays Each With Target Sum](./Day-42-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/)
+- [Day 43 - Maximum Number of Non-Overlapping Substrings](./Day-43-Maximum-Number-of-Non-Overlapping-Substrings/)
 
 ---
 
@@ -122,12 +124,13 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - Mathematical Algorithms
 - Combinatorics
 - Modular Arithmetic
+- Interval Processing
 
 ---
 
 ## 🔥 Progress
 
-**42 Days Completed! 🎯**
+**43 Days Completed! 🎯**
 
 > Consistency beats intensity.  
 > Solving one problem every day and continuously improving my problem-solving skills.
