@@ -53,6 +53,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 42 | #1477    | Find Two Non-overlapping Sub-arrays Each With Target Sum               | Medium     | ✅      |
 | Day 43 | #1520    | Maximum Number of Non-Overlapping Substrings                           | Hard       | ✅      |
 | Day 44 | #1401    | Circle and Rectangle Overlapping                                       | Medium     | ✅      |
+| Day 45 | #3498    | Reverse Degree of a String                                             | Easy       | ✅      |
 
 ---
 
@@ -102,6 +103,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 * [Day 42 - Find Two Non-overlapping Sub-arrays Each With Target Sum](./Day-42-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/)
 * [Day 43 - Maximum Number of Non-Overlapping Substrings](./Day-43-Maximum-Number-of-Non-Overlapping-Substrings/)
 * [Day 44 - Circle and Rectangle Overlapping](./Day-44-Circle-and-Rectangle-Overlapping/)
+* [Day 45 - Reverse Degree of a String](./Day-45-Reverse-Degree-of-a-String/)
 
 ---
 
@@ -133,7 +135,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 
 ## 🔥 Progress
 
-**44 Days Completed! 🎯**
+**45 Days Completed! 🎯**
 
 > Consistency beats intensity.
 > Solving one problem every day and continuously improving my problem-solving skills.
