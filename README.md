@@ -55,6 +55,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 44 | #1401    | Circle and Rectangle Overlapping                                       | Medium     | ✅      |
 | Day 45 | #3498    | Reverse Degree of a String                                             | Easy       | ✅      |
 | Day 46 | #3524    | Find X Value of Array II                                               | Medium     | ✅      |
+| Day 47 | #3525    | Find X Value of Array II                                               | Hard       | ✅      |
 
 ---
 
@@ -106,6 +107,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 * [Day 44 - Circle and Rectangle Overlapping](./Day-44-Circle-and-Rectangle-Overlapping/)
 * [Day 45 - Reverse Degree of a String](./Day-45-Reverse-Degree-of-a-String/)
 * [Day 46 - Find X Value of Array II](./Day-46-Find-X-Value-of-Array-II/)
+* [Day 47 - Find X Value of Array II](./Day-47-Find-X-Value-of-Array-II/)
 
 ---
 
@@ -124,21 +126,22 @@ This repository contains my daily journey of solving LeetCode problems using **J
 * Greedy Algorithms
 * Backtracking
 * Trees & DFS
+* Segment Trees
+* Range Queries
+* Point Updates
+* Modular Arithmetic
 * Interval Scheduling
 * Palindrome Algorithms
 * Bit Manipulation
 * Mathematical Algorithms
 * Combinatorics
-* Modular Arithmetic
-* Interval Processing
 * Geometry
-* Dynamic Programming with Remainder States
 
 ---
 
 ## 🔥 Progress
 
-**46 Days Completed! 🎯**
+**47 Days Completed! 🎯**
 
 > Consistency beats intensity.
 > Solving one problem every day and continuously improving my problem-solving skills.
