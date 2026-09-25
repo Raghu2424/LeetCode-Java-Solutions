@@ -57,7 +57,8 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 46 | #3524 | Find X Value of Array II | Medium | ✅ |
 | Day 47 | #3525 | Find X Value of Array II | Hard | ✅ |
 | Day 48 | #1658 | Minimum Operations to Reduce X to Zero | Medium | ✅ |
-| Day 49 | — | Smallest Index With Digit Sum Equal to Index | Easy | ✅ |
+| Day 49 | #3550 | Smallest Index With Digit Sum Equal to Index | Easy | ✅ |
+| Day 50 | #1096 | Brace Expansion II | Hard | ✅ |
 
 ---
 
@@ -112,6 +113,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - [Day 47 - Find X Value of Array II](./Day-47-Find-X-Value-of-Array-II/)
 - [Day 48 - Minimum Operations to Reduce X to Zero](./Day-48-Minimum-Operations-to-Reduce-X-to-Zero/)
 - [Day 49 - Smallest Index With Digit Sum Equal to Index](./Day-49-Smallest-Index-With-Digit-Sum-Equal-to-Index/)
+- [Day 50 - Brace Expansion II](./Day-50-Brace-Expansion-II/)
 
 ---
 
@@ -140,12 +142,15 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - Mathematical Algorithms
 - Combinatorics
 - Geometry
+- Set Operations
+- Cartesian Product
+- Recursive Parsing
 
 ---
 
 ## 🔥 Progress
 
-**49 Days Completed! 🎯**
+**50 Days Completed! 🎯**
 
 > Consistency beats intensity.  
 > Solving one problem every day and continuously improving my problem-solving skills.
