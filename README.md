@@ -59,6 +59,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 48 | #1658 | Minimum Operations to Reduce X to Zero | Medium | ✅ |
 | Day 49 | #3550 | Smallest Index With Digit Sum Equal to Index | Easy | ✅ |
 | Day 50 | #1096 | Brace Expansion II | Hard | ✅ |
+| Day 51 | #1807 | Evaluate the Bracket Pairs of a String | Medium | ✅ |
 
 ---
 
@@ -114,6 +115,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - [Day 48 - Minimum Operations to Reduce X to Zero](./Day-48-Minimum-Operations-to-Reduce-X-to-Zero/)
 - [Day 49 - Smallest Index With Digit Sum Equal to Index](./Day-49-Smallest-Index-With-Digit-Sum-Equal-to-Index/)
 - [Day 50 - Brace Expansion II](./Day-50-Brace-Expansion-II/)
+- [Day 51 - Evaluate the Bracket Pairs of a String](./Day-51-Evaluate-the-Bracket-Pairs-of-a-String/)
 
 ---
 
@@ -145,12 +147,13 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - Set Operations
 - Cartesian Product
 - Recursive Parsing
+- String Parsing
 
 ---
 
 ## 🔥 Progress
 
-**50 Days Completed! 🎯**
+**51 Days Completed! 🎯**
 
 > Consistency beats intensity.  
 > Solving one problem every day and continuously improving my problem-solving skills.
