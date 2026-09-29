@@ -1,14 +1,14 @@
 # 🚀 LeetCode Java Solutions
 
 Welcome to my **LeetCode Java Solutions** repository!  
-This repository contains my daily journey of solving LeetCode problems using **Java** and improving my **Data Structures & Algorithms (DSA)** skills.
+This repository contains my daily LeetCode problem-solving journey, with a focus on improving **DSA, problem-solving, and coding skills** through consistent practice.
 
 ---
 
 ## 📊 DSA Progress
 
-| Day | LeetCode | Problem | Difficulty | Status |
-|---|---|---|---|---|
+| Day | Problem | Title | Difficulty | Status |
+|-----|---------|-------|------------|--------|
 | Day 01 | #1 | Two Sum | Easy | ✅ |
 | Day 02 | #3345 | Smallest Divisible Digit Product I | Easy | ✅ |
 | Day 03 | #2 | Add Two Numbers | Medium | ✅ |
@@ -57,9 +57,10 @@ This repository contains my daily journey of solving LeetCode problems using **J
 | Day 46 | #3524 | Find X Value of Array II | Medium | ✅ |
 | Day 47 | #3525 | Find X Value of Array II | Hard | ✅ |
 | Day 48 | #1658 | Minimum Operations to Reduce X to Zero | Medium | ✅ |
-| Day 49 | #3550 | Smallest Index With Digit Sum Equal to Index | Easy | ✅ |
+| Day 49 | #3550 | Find Smallest Index With Digit Sum Equal to Index | Easy | ✅ |
 | Day 50 | #1096 | Brace Expansion II | Hard | ✅ |
 | Day 51 | #1807 | Evaluate the Bracket Pairs of a String | Medium | ✅ |
+| Day 52 | #2267 | Valid Parentheses Path | Hard | ✅ |
 
 ---
 
@@ -116,6 +117,7 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - [Day 49 - Smallest Index With Digit Sum Equal to Index](./Day-49-Smallest-Index-With-Digit-Sum-Equal-to-Index/)
 - [Day 50 - Brace Expansion II](./Day-50-Brace-Expansion-II/)
 - [Day 51 - Evaluate the Bracket Pairs of a String](./Day-51-Evaluate-the-Bracket-Pairs-of-a-String/)
+- [Day 52 - Valid Parentheses Path](./Day-52-Valid-Parentheses-Path/)
 
 ---
 
@@ -148,25 +150,29 @@ This repository contains my daily journey of solving LeetCode problems using **J
 - Cartesian Product
 - Recursive Parsing
 - String Parsing
+- 3D Dynamic Programming
+- Memoization
+- DFS Pruning
+- Parentheses Balance
 
 ---
 
 ## 🔥 Progress
 
-**51 Days Completed! 🎯**
+**52 Days Completed! 🎯**
 
-> Consistency beats intensity.  
-> Solving one problem every day and continuously improving my problem-solving skills.
+Consistency is the key to mastering DSA.  
+One problem at a time. One day at a time. 🚀
 
 ---
 
 ## 🎯 Goal
 
-- Strengthen DSA fundamentals
+- Strengthen Data Structures & Algorithms
 - Improve problem-solving skills
-- Prepare for coding interviews
-- Build consistency through daily practice
-- Become a better Full Stack Developer
+- Maintain a consistent coding streak
+- Prepare for technical interviews
+- Build strong programming fundamentals
 
 ---
 
@@ -176,4 +182,4 @@ This repository contains my daily journey of solving LeetCode problems using **J
 
 ---
 
-> One problem a day. One step closer to becoming a better developer. 🚀
+> "Success is the sum of small efforts, repeated day in and day out." 🚀
