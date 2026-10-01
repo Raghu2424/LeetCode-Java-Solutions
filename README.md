@@ -62,6 +62,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 | Day 51 | #1807 | Evaluate the Bracket Pairs of a String | Medium | ✅ |
 | Day 52 | #2267 | Valid Parentheses Path | Hard | ✅ |
 | Day 53 | #1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | ✅ |
+| Day 54 | #20 | Valid Parentheses | Easy | ✅ |
 
 ---
 
@@ -120,6 +121,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 - [Day 51 - Evaluate the Bracket Pairs of a String](./Day-51-Evaluate-the-Bracket-Pairs-of-a-String/)
 - [Day 52 - Valid Parentheses Path](./Day-52-Valid-Parentheses-Path/)
 - [Day 53 - Maximum Nesting Depth of Two Valid Parentheses Strings](./Day-53-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/)
+- [Day 54 - Valid Parentheses](./Day-54-Valid-Parentheses/)
 
 ---
 
@@ -128,6 +130,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 - Arrays
 - Strings
 - HashMap & HashSet
+- Stack
 - Sliding Window
 - Two Pointers
 - Prefix Sum
@@ -162,7 +165,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 
 ## 🔥 Progress
 
-**53 Days Completed! 🎯**
+**54 Days Completed! 🎯**
 
 Consistency is the key to mastering DSA.  
 One problem at a time. One day at a time. 🚀
