@@ -63,6 +63,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 | Day 52 | #2267 | Valid Parentheses Path | Hard | ✅ |
 | Day 53 | #1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | ✅ |
 | Day 54 | #20 | Valid Parentheses | Easy | ✅ |
+| Day 55 | #22 | Generate Parentheses | Medium | ✅ |
 
 ---
 
@@ -122,6 +123,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 - [Day 52 - Valid Parentheses Path](./Day-52-Valid-Parentheses-Path/)
 - [Day 53 - Maximum Nesting Depth of Two Valid Parentheses Strings](./Day-53-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/)
 - [Day 54 - Valid Parentheses](./Day-54-Valid-Parentheses/)
+- [Day 55 - Generate Parentheses](./Day-55-Generate-Parentheses/)
 
 ---
 
@@ -165,7 +167,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 
 ## 🔥 Progress
 
-**54 Days Completed! 🎯**
+**55 Days Completed! 🎯**
 
 Consistency is the key to mastering DSA.  
 One problem at a time. One day at a time. 🚀
