@@ -65,6 +65,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 | Day 54 | #20     | Valid Parentheses                                                      | Easy       | ✅      |
 | Day 55 | #22     | Generate Parentheses                                                   | Medium     | ✅      |
 | Day 56 | #32     | Longest Valid Parentheses                                              | Hard       | ✅      |
+| Day 57 | #678    | Valid Parenthesis String                                               | Medium     | ✅      |
 
 ---
 
@@ -126,6 +127,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 * [Day 54 - Valid Parentheses](./Day-54-Valid-Parentheses/)
 * [Day 55 - Generate Parentheses](./Day-55-Generate-Parentheses/)
 * [Day 56 - Longest Valid Parentheses](./Day-56-Longest-Valid-Parentheses/)
+* [Day 57 - Valid Parenthesis String](./Day-57-Valid-Parenthesis-String/)
 
 ---
 
@@ -166,12 +168,13 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 * Stack Depth
 * Parentheses Matching
 * Index-Based Stack
+* Greedy Range
 
 ---
 
 ## 🔥 Progress
 
-**56 Days Completed! 🎯**
+**57 Days Completed! 🎯**
 
 Consistency is the key to mastering DSA.
 One problem at a time. One day at a time. 🚀
