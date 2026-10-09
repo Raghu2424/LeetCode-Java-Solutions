@@ -70,6 +70,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 | Day 59 | #921  | Minimum Add to Make Parentheses Valid                                  | Medium     | ✅      |
 | Day 60 | #301  | Remove Invalid Parentheses                                             | Hard       | ✅      |
 | Day 61 | #1021 | Remove Outermost Parentheses                                           | Easy       | ✅      |
+| Day 62 | #1541 | Minimum Insertions to Balance a Parentheses String                     | Medium     | ✅      |
 
 ---
 
@@ -136,6 +137,7 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 * [Day 59 - Minimum Add to Make Parentheses Valid](https://chatgpt.com/c/Day-59-Minimum-Add-to-Make-Parentheses-Valid/)
 * [Day 60 - Remove Invalid Parentheses](https://chatgpt.com/c/Day-60-Remove-Invalid-Parentheses/)
 * [Day 61 - Remove Outermost Parentheses](https://chatgpt.com/c/Day-61-Remove-Outermost-Parentheses/)
+* [Day 62 - Minimum Insertions to Balance a Parentheses String](https://chatgpt.com/c/Day-62-Minimum-Insertions-to-Balance-a-Parentheses-String/)
 
 ---
 
@@ -181,12 +183,13 @@ This repository contains my daily LeetCode problem-solving journey, with a focus
 * Balance Counting
 * Backtracking Pruning
 * Depth Tracking
+* Greedy Parentheses Balancing
 
 ---
 
 ## 🔥 Progress
 
-**61 Days Completed! 🎯**
+**62 Days Completed! 🎯**
 
 Consistency is the key to mastering DSA.
 One problem at a time. One day at a time. 🚀
