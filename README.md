@@ -69,6 +69,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 61 | #1021 | Remove Outermost Parentheses | Easy | ✅ |
 | Day 62 | #1541 | Minimum Insertions to Balance a Parentheses String | Medium | ✅ |
 | Day 63 | #2333 | Minimum Sum of Squared Difference | Medium | ✅ |
+| Day 64 | #2778 | Sum of Squares of Special Elements | Easy | ✅ |
 
 ## 📂 Solutions
 
@@ -137,6 +138,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 61 - Remove Outermost Parentheses](https://chatgpt.com/c/Day-61-Remove-Outermost-Parentheses/)
 - [Day 62 - Minimum Insertions to Balance a Parentheses String](https://chatgpt.com/c/Day-62-Minimum-Insertions-to-Balance-a-Parentheses-String/)
 - [Day 63 - Minimum Sum of Squared Difference](https://chatgpt.com/c/Day-63-Minimum-Sum-of-Squared-Difference/)
+- [Day 64 - Sum of Squares of Special Elements](https://chatgpt.com/c/Day-64-Sum-of-Squares-of-Special-Elements/)
 
 ## 🧠 Concepts Practiced
 
@@ -151,11 +153,11 @@ Each problem has its own folder containing the Java solution.
 - Linked Lists and Trees
 - Graph Algorithms
 - Stack and Queue
-- Mathematical Optimization
+- Divisibility and Basic Mathematics
 
 ## 📈 Progress
 
-**63 Days Completed! 🎯**
+**64 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
