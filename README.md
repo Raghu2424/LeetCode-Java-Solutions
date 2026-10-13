@@ -71,6 +71,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 63 | #2333 | Minimum Sum of Squared Difference | Medium | ✅ |
 | Day 64 | #2778 | Sum of Squares of Special Elements | Easy | ✅ |
 | Day 65 | #2897 | Apply Operations on Array to Maximize Sum of Squares | Medium | ✅ |
+| Day 66 | — | Max Alternating Sum (Squared Values) | To be confirmed | ✅ |
 
 ## 📂 Solutions
 
@@ -141,6 +142,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 63 - Minimum Sum of Squared Difference](https://chatgpt.com/c/Day-63-Minimum-Sum-of-Squared-Difference/)
 - [Day 64 - Sum of Squares of Special Elements](https://chatgpt.com/c/Day-64-Sum-of-Squares-of-Special-Elements/)
 - [Day 65 - Apply Operations on Array to Maximize Sum of Squares](https://chatgpt.com/c/Day-65-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/)
+- [Day 66 - Max Alternating Sum (Squared Values)](https://chatgpt.com/c/Day-66-Max-Alternating-Sum-Squared-Values/)
 
 ## 🧠 Concepts Practiced
 
@@ -159,7 +161,7 @@ Each problem has its own folder containing the Java solution.
 
 ## 📈 Progress
 
-**65 Days Completed! 🎯**
+**66 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
