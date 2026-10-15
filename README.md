@@ -73,6 +73,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 65 | #2897 | Apply Operations on Array to Maximize Sum of Squares | Medium | ✅ |
 | Day 66 | — | Max Alternating Sum (Squared Values) | To be confirmed | ✅ |
 | Day 67 | — | Maximize Sum of Squares of Digits | To be confirmed | ✅ |
+| Day 68 | — | Sum of Counts of Distinct Elements in All Subarrays | To be confirmed | ✅ |
 
 ## 📂 Solutions
 
@@ -145,6 +146,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 65 - Apply Operations on Array to Maximize Sum of Squares](https://chatgpt.com/c/Day-65-Apply-Operations-on-Array-to-Maximize-Sum-of-Squares/)
 - [Day 66 - Max Alternating Sum (Squared Values)](https://chatgpt.com/c/Day-66-Max-Alternating-Sum-Squared-Values/)
 - [Day 67 - Maximize Sum of Squares of Digits](https://chatgpt.com/c/Day-67-Maximize-Sum-of-Squares-of-Digits/)
+- [Day 68 - Sum of Counts of Distinct Elements in All Subarrays](https://chatgpt.com/c/Day-68-Sum-Counts/)
 
 ## 🧠 Concepts Practiced
 
@@ -162,10 +164,12 @@ Each problem has its own folder containing the Java solution.
 - Divisibility and Basic Mathematics
 - Greedy Digit Construction
 - String Manipulation
+- Hash Sets and Distinct Element Counting
+- Subarray Enumeration
 
 ## 📈 Progress
 
-**67 Days Completed! 🎯**
+**68 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
@@ -180,3 +184,4 @@ Continuously improving my problem-solving skills by practicing LeetCode problems
 ## 🛠️ Language
 
 **Java** ☕
+
