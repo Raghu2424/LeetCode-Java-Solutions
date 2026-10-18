@@ -75,6 +75,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 67 | — | Maximize Sum of Squares of Digits | To be confirmed | ✅ |
 | Day 68 | — | Sum of Counts of Distinct Elements in All Subarrays | To be confirmed | ✅ |
 | Day 69 | — | Minimum Swaps to Sort by Digit Sum, Then by Value | To be confirmed | ✅ |
+| Day 70 | #1569 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
 
 ## 📂 Solutions
 
@@ -149,6 +150,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 67 - Maximize Sum of Squares of Digits](https://chatgpt.com/c/Day-67-Maximize-Sum-of-Squares-of-Digits/)
 - [Day 68 - Sum of Counts of Distinct Elements in All Subarrays](https://chatgpt.com/c/Day-68-Sum-Counts/)
 - [Day 69 - Minimum Swaps to Sort by Digit Sum, Then by Value](https://chatgpt.com/c/Day-69-Min-Swaps-Digit-Sum/)
+- [Day 70 - Number of Ways to Reorder Array to Get Same BST](https://chatgpt.com/c/Day-70-Number-of-Ways-to-Reorder-Array/)
 
 ## 🧠 Concepts Practiced
 
@@ -171,10 +173,14 @@ Each problem has its own folder containing the Java solution.
 - Custom Comparators
 - Digit Sum Calculation
 - Cycle Detection and Minimum Swaps
+- Binary Search Trees (BST)
+- Recursion and Tree Traversal
+- Pascal's Triangle and Combinations
+- Modular Arithmetic
 
 ## 📈 Progress
 
-**69 Days Completed! 🎯**
+**70 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
