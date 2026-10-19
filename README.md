@@ -76,6 +76,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 68 | — | Sum of Counts of Distinct Elements in All Subarrays | To be confirmed | ✅ |
 | Day 69 | — | Minimum Swaps to Sort by Digit Sum, Then by Value | To be confirmed | ✅ |
 | Day 70 | #1569 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
+| Day 71 | #2089 | Find Target Indices After Sorting Array | Easy | ✅ |
 
 ## 📂 Solutions
 
@@ -151,6 +152,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 68 - Sum of Counts of Distinct Elements in All Subarrays](https://chatgpt.com/c/Day-68-Sum-Counts/)
 - [Day 69 - Minimum Swaps to Sort by Digit Sum, Then by Value](https://chatgpt.com/c/Day-69-Min-Swaps-Digit-Sum/)
 - [Day 70 - Number of Ways to Reorder Array to Get Same BST](https://chatgpt.com/c/Day-70-Number-of-Ways-to-Reorder-Array/)
+- [Day 71 - Find Target Indices After Sorting Array](https://chatgpt.com/c/Day-71-Find-Target-Indices-After-Sorting-Array/)
 
 ## 🧠 Concepts Practiced
 
@@ -177,10 +179,12 @@ Each problem has its own folder containing the Java solution.
 - Recursion and Tree Traversal
 - Pascal's Triangle and Combinations
 - Modular Arithmetic
+- Counting and Frequency Analysis
+- Sorted Array Indexing
 
 ## 📈 Progress
 
-**70 Days Completed! 🎯**
+**71 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
