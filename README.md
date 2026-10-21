@@ -78,8 +78,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 70 | — | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
 | Day 71 | — | Find Target Indices After Sorting Array | Easy | ✅ |
 | Day 72 | — | Sortable Integers | To be confirmed | ✅ |
-| Day 73 | — | Sortable Integers | To be confirmed | ✅ |
-| Day 74 | — | Sort String (working title) | To be confirmed | ✅ |
+| Day 73 | — | Sort String (working title) | To be confirmed | ✅ |
 
 ## 📂 Solutions
 
@@ -157,8 +156,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 70 - Number of Ways to Reorder Array to Get Same BST](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-70-Number-of-Ways-to-Reorder-Array)
 - [Day 71 - Find Target Indices After Sorting Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-71-Find-Target-Indices-After-Sorting-Array)
 - [Day 72 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-72-Sortable-Integers)
-- [Day 73 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-73-Sortable-Integers)
-- [Day 74 - Sort String](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Sort-String)
+- [Day 73 - Sort String](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Sort-String)
 
 ## 🧠 Concepts Practiced
 
