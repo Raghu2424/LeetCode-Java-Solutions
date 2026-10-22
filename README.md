@@ -75,10 +75,11 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 67 | — | Maximize Sum of Squares of Digits | To be confirmed | ✅ |
 | Day 68 | — | Sum of Counts of Distinct Elements in All Subarrays | To be confirmed | ✅ |
 | Day 69 | — | Minimum Swaps to Sort by Digit Sum, Then by Value | To be confirmed | ✅ |
-| Day 70 | — | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
-| Day 71 | — | Find Target Indices After Sorting Array | Easy | ✅ |
+| Day 70 | #1569 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
+| Day 71 | #2089 | Find Target Indices After Sorting Array | Easy | ✅ |
 | Day 72 | — | Sortable Integers | To be confirmed | ✅ |
-| Day 73 | — | Sort String (working title) | To be confirmed | ✅ |
+| Day 73 | — | Sortable Integers | To be confirmed | ✅ |
+| Day 74 | — | Minimum Operations to Sort Array | To be confirmed | ✅ |
 
 ## 📂 Solutions
 
@@ -156,7 +157,8 @@ Each problem has its own folder containing the Java solution.
 - [Day 70 - Number of Ways to Reorder Array to Get Same BST](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-70-Number-of-Ways-to-Reorder-Array)
 - [Day 71 - Find Target Indices After Sorting Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-71-Find-Target-Indices-After-Sorting-Array)
 - [Day 72 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-72-Sortable-Integers)
-- [Day 73 - Sort String](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Sort-String)
+- [Day 73 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-73-Sortable-Integers)
+- [Day 74 - Minimum Operations to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Minimum-Operations-to-Sort-Array)
 
 ## 🧠 Concepts Practiced
 
@@ -179,8 +181,8 @@ Each problem has its own folder containing the Java solution.
 - Custom Comparators
 - Digit Sum Calculation
 - Cycle Detection and Minimum Swaps
-- Binary Search Trees (BST)
-- Character Arrays and String Sorting
+- Binary Search Trees
+- Array Rotation and Reversal
 
 ## 📈 Progress
 
