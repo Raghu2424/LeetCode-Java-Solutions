@@ -80,6 +80,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 72 | — | Sortable Integers | To be confirmed | ✅ |
 | Day 73 | — | Sortable Integers | To be confirmed | ✅ |
 | Day 74 | — | Minimum Operations to Sort Array | To be confirmed | ✅ |
+| Day 75 | — | Find Minimum Possible K to Sort Array | To be confirmed | ✅ |
 
 ## 📂 Solutions
 
@@ -154,11 +155,12 @@ Each problem has its own folder containing the Java solution.
 - [Day 67 - Maximize Sum of Squares of Digits](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-67-Maximize-Sum-of-Squares-of-Digits)
 - [Day 68 - Sum of Counts of Distinct Elements in All Subarrays](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-68-Sum-Counts)
 - [Day 69 - Minimum Swaps to Sort by Digit Sum, Then by Value](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-69-Min-Swaps-Digit-Sum)
-- [Day 70 - Number of Ways to Reorder Array to Get Same BST](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-70-Number-of-Ways-to-Reorder-Array)
+- [Day 70 - Number of Ways to Reorder Array to Get Same BST](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-70-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST)
 - [Day 71 - Find Target Indices After Sorting Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-71-Find-Target-Indices-After-Sorting-Array)
 - [Day 72 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-72-Sortable-Integers)
 - [Day 73 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-73-Sortable-Integers)
 - [Day 74 - Minimum Operations to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Minimum-Operations-to-Sort-Array)
+- [Day 75 - Find Minimum Possible K to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-75-Find-Minimum-Possible-K-to-Sort-Array)
 
 ## 🧠 Concepts Practiced
 
@@ -181,12 +183,10 @@ Each problem has its own folder containing the Java solution.
 - Custom Comparators
 - Digit Sum Calculation
 - Cycle Detection and Minimum Swaps
-- Binary Search Trees
-- Array Rotation and Reversal
 
 ## 📈 Progress
 
-**74 Days Completed! 🎯**
+**75 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
