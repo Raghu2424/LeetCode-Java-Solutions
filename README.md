@@ -81,6 +81,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 73 | — | Sortable Integers | To be confirmed | ✅ |
 | Day 74 | — | Minimum Operations to Sort Array | To be confirmed | ✅ |
 | Day 75 | — | Find Minimum Possible K to Sort Array | To be confirmed | ✅ |
+| Day 76 | #2409 | Count Days Spent Together | Easy | ✅ |
 
 ## 📂 Solutions
 
@@ -161,6 +162,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 73 - Sortable Integers](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-73-Sortable-Integers)
 - [Day 74 - Minimum Operations to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Minimum-Operations-to-Sort-Array)
 - [Day 75 - Find Minimum Possible K to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-75-Find-Minimum-Possible-K-to-Sort-Array)
+- [Day 76 - Count Days Spent Together](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-76-Count-Days-Spent-Together)
 
 ## 🧠 Concepts Practiced
 
@@ -183,10 +185,11 @@ Each problem has its own folder containing the Java solution.
 - Custom Comparators
 - Digit Sum Calculation
 - Cycle Detection and Minimum Swaps
+- Date Parsing and Interval Overlap
 
 ## 📈 Progress
 
-**75 Days Completed! 🎯**
+**76 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
