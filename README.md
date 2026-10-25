@@ -82,6 +82,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 74 | — | Minimum Operations to Sort Array | To be confirmed | ✅ |
 | Day 75 | — | Find Minimum Possible K to Sort Array | To be confirmed | ✅ |
 | Day 76 | #2409 | Count Days Spent Together | Easy | ✅ |
+| Day 77 | #1254 | Number of Closed Islands | Medium | ✅ |
 
 ## 📂 Solutions
 
@@ -163,6 +164,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 74 - Minimum Operations to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-74-Minimum-Operations-to-Sort-Array)
 - [Day 75 - Find Minimum Possible K to Sort Array](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-75-Find-Minimum-Possible-K-to-Sort-Array)
 - [Day 76 - Count Days Spent Together](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-76-Count-Days-Spent-Together)
+- [Day 77 - Number of Closed Islands](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-77-Number-of-Closed-Islands)
 
 ## 🧠 Concepts Practiced
 
@@ -186,10 +188,12 @@ Each problem has its own folder containing the Java solution.
 - Digit Sum Calculation
 - Cycle Detection and Minimum Swaps
 - Date Parsing and Interval Overlap
+- Depth-First Search (DFS)
+- Flood Fill and Grid Traversal
 
 ## 📈 Progress
 
-**76 Days Completed! 🎯**
+**77 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
