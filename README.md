@@ -84,6 +84,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 76 | #2409 | Count Days Spent Together | Easy | ✅ |
 | Day 77 | #1254 | Number of Closed Islands | Medium | ✅ |
 | Day 78 | — | Count Islands | — | ✅ |
+| Day 79 | — | Create Grid | — | ✅ |
 
 ## 📂 Solutions
 
@@ -167,6 +168,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 76 - Count Days Spent Together](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-76-Count-Days-Spent-Together)
 - [Day 77 - Number of Closed Islands](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-77-Number-of-Closed-Islands)
 - [Day 78 - Count Islands](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-78-Count-Islands)
+- [Day 79 - Create Grid](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-79-Create-Grid)
 
 ## 🧠 Concepts Practiced
 
@@ -192,10 +194,11 @@ Each problem has its own folder containing the Java solution.
 - Date Parsing and Interval Overlap
 - Depth-First Search (DFS)
 - Flood Fill and Grid Traversal
+- Grid Construction and StringBuilder
 
 ## 📈 Progress
 
-**78 Days Completed! 🎯**
+**79 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
