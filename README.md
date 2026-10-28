@@ -85,6 +85,7 @@ Welcome to my **LeetCode Java Solutions** repository! This repository tracks my 
 | Day 77 | #1254 | Number of Closed Islands | Medium | ✅ |
 | Day 78 | — | Count Islands | — | ✅ |
 | Day 79 | — | Create Grid | — | ✅ |
+| Day 80 | — | Minimum Cost | — | ✅ |
 
 ## 📂 Solutions
 
@@ -169,6 +170,7 @@ Each problem has its own folder containing the Java solution.
 - [Day 77 - Number of Closed Islands](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-77-Number-of-Closed-Islands)
 - [Day 78 - Count Islands](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-78-Count-Islands)
 - [Day 79 - Create Grid](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-79-Create-Grid)
+- [Day 80 - Minimum Cost](https://github.com/Raghu2424/LeetCode-Java-Solutions/tree/main/Day-80-Minimum-Cost)
 
 ## 🧠 Concepts Practiced
 
@@ -195,10 +197,12 @@ Each problem has its own folder containing the Java solution.
 - Depth-First Search (DFS)
 - Flood Fill and Grid Traversal
 - Grid Construction and StringBuilder
+- Dynamic Programming on Grids
+- Bit Manipulation and XOR
 
 ## 📈 Progress
 
-**79 Days Completed! 🎯**
+**80 Days Completed! 🎯**
 
 Continuously improving my problem-solving skills by practicing LeetCode problems and documenting my solutions in Java.
 
